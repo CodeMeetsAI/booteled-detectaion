@@ -1,0 +1,42 @@
+# Core Computer Vision
+opencv-python
+numpy
+Pillow
+scipy
+
+# AI / Deep Learning
+torch
+torchvision
+ultralytics
+
+# GUI
+PyQt6
+
+# Database
+sqlmodel
+
+# API
+fastapi
+uvicorn
+
+# Configuration
+pydantic-settings
+python-dotenv
+
+# Logging
+loguru
+
+# PLC / Industrial Communication
+pymodbus
+
+# Reporting
+pandas
+openpyxl
+
+# Testing
+pytest
+pytest-cov
+httpx
+
+# Packaging
+pyinstaller
